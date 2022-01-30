@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.metagames">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/meta_games_icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MetaGames">
+        <activity
+            android:name=".Space"
+            android:exported="false" />
+        <activity
+            android:name=".BullsAndCows"
+            android:exported="false" />
+        <activity
+            android:name=".RockPaperScissors"
+            android:exported="false" />
+        <activity
+            android:name=".Fifteens"
+            android:exported="false" />
+        <activity
+            android:name=".TickToe"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
