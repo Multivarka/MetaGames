@@ -3,10 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/MetaGames/app/src/main/res/layout/activity_bricks.xml" value="0.2" />
         <entry key="..\:/Users/Asus/AndroidStudioProjects/MetaGames/app/src/main/res/layout/activity_bulls_and_cows.xml" value="0.264" />
         <entry key="..\:/Users/Asus/AndroidStudioProjects/MetaGames/app/src/main/res/layout/activity_fifteens.xml" value="0.264" />
         <entry key="..\:/Users/Asus/AndroidStudioProjects/MetaGames/app/src/main/res/layout/activity_jumping.xml" value="0.22192028985507245" />
         <entry key="..\:/Users/Asus/AndroidStudioProjects/MetaGames/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/MetaGames/app/src/main/res/layout/activity_miner.xml" value="0.19519927536231885" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/MetaGames/app/src/main/res/layout/activity_miner_field.xml" value="0.264" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/MetaGames/app/src/main/res/layout/activity_miner_menu.xml" value="0.4" />
         <entry key="..\:/Users/Asus/AndroidStudioProjects/MetaGames/app/src/main/res/layout/activity_rock_paper_scissors.xml" value="0.176" />
         <entry key="..\:/Users/Asus/AndroidStudioProjects/MetaGames/app/src/main/res/layout/activity_space.xml" value="0.2" />
         <entry key="..\:/Users/Asus/AndroidStudioProjects/MetaGames/app/src/main/res/layout/activity_tick_toe.xml" value="0.6" />

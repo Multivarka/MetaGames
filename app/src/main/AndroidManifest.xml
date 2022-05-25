@@ -9,6 +9,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MetaGames">
         <activity
+            android:name=".MinerMenu"
+            android:exported="false" />
+        <activity
+            android:name=".Miner"
+            android:exported="false" />
+        <activity
+            android:name=".Bricks"
+            android:exported="false" />
+        <activity
             android:name=".Space"
             android:exported="false" />
         <activity
